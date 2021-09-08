@@ -1,8 +1,8 @@
 ## Welcome to 迪拓 展示系统
 
-You can use the [editor on GitHub](https://github.com/DelTacAdmin/Demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Install Jekyll 
+  
+  -- on Mac, please follow https://jekyllrb.com/docs/installation/macos/
 
 ### Markdown
 
