@@ -246,7 +246,7 @@
 		position: relative;
 	}
 
-		.image:before {
+		/* .image:before {
 			background: url("images/overlay.png");
 			content: '';
 			height: 100%;
@@ -255,7 +255,7 @@
 			top: 0;
 			width: 100%;
 			z-index: -1;
-		}
+		} */
 
 		.image.fit {
 			display: block;
