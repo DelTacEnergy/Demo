@@ -4,9 +4,9 @@ email: developer@deltac.com.cn
 description: > # this means to ignore newlines until "baseurl:"
   This is the DelTac Demo system, DelTac is a leading company in Power Engergy and WindFarm Management, this page demonstrates DelTac's strong technologies and Industry solutions.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://deltacadmin.github.io/Demo/" # the base hostname & protocol for your site
+url: "https://deltacadmin.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  developer@deltac.com.cn
-
+permalink: /Demo/
 # Build settings
 markdown: kramdown
