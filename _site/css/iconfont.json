@@ -1,0 +1,191 @@
+{
+  "id": "2700244",
+  "name": "green-energy",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2160763",
+      "name": "项目开发",
+      "font_class": "xiangmukaifa",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "17917044",
+      "name": "国家电网",
+      "font_class": "guojiadianwang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "8377070",
+      "name": "无人机M210",
+      "font_class": "wurenji",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "12669341",
+      "name": "数据管理",
+      "font_class": "shujuguanli",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "16849791",
+      "name": "叶片监测",
+      "font_class": "yepianjiance",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "17976843",
+      "name": "风电",
+      "font_class": "fengdian-01",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "3532294",
+      "name": "电力安全生产风险预控",
+      "font_class": "dianlianquanshengchanfengxianyukong-",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "15682770",
+      "name": "图像分析",
+      "font_class": "tuxiangfenxi",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "16990527",
+      "name": "icon_电力检测",
+      "font_class": "icon_dianlijiance",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "17121755",
+      "name": "风力",
+      "font_class": "fengli",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "20181179",
+      "name": "数据分析",
+      "font_class": "zhongguohangtiantubiaoheji-weizhuanlunkuo-",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "21480286",
+      "name": "电力检测",
+      "font_class": "dianlijiance",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "22623165",
+      "name": "电力、热力生产和供应业",
+      "font_class": "dianli",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2638476",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "21124993",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "15167665",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "9649207",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "22763879",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "4236654",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "12752439",
+      "name": "全屏",
+      "font_class": "quanping_huaban",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "20797216",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "21088707",
+      "name": "锁屏",
+      "font_class": "suoping",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "15838561",
+      "name": "arrow-left-bold",
+      "font_class": "arrow-left-bold",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "15838562",
+      "name": "arrow-up-bold",
+      "font_class": "arrow-up-bold",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "15838564",
+      "name": "arrow-down-bold",
+      "font_class": "arrow-down-bold",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "15838566",
+      "name": "arrow-right-bold",
+      "font_class": "arrow-right-bold",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    }
+  ]
+}
